@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../BookingpetzREST" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BookingpetzWeb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../spring-boot-file-upload-download-rest-api-example" vcs="Git" />
+  </component>
+</project>

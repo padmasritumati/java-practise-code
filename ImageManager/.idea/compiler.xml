@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="file-demo" />
+        <module name="ImageManager" />
+        <module name="BookingpetsREST" />
+        <module name="backendapi" />
+        <module name="BookingPetsWeb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="backendapi" target="11" />
+      <module name="BookingpetsREST" target="1.8" />
+      <module name="BookingPetsWeb" target="8" />
+      <module name="file-demo" target="1.8" />
+      <module name="ImageManager" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="backendapi" options="-parameters" />
+      <module name="file-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

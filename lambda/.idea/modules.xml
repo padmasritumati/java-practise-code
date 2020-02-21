@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/booking/BookingpetzWeb/BookingPetsWeb.iml" filepath="$USER_HOME$/booking/BookingpetzWeb/BookingPetsWeb.iml" />
+      <module fileurl="file://$USER_HOME$/booking/BookingpetzREST/BookingpetsREST.iml" filepath="$USER_HOME$/booking/BookingpetzREST/BookingpetsREST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda.iml" filepath="$PROJECT_DIR$/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stringboot/stringboot.iml" filepath="$PROJECT_DIR$/../stringboot/stringboot.iml" />
+    </modules>
+  </component>
+</project>

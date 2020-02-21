@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BookingpetzWeb/BookingPetsWeb.iml" filepath="$PROJECT_DIR$/../BookingpetzWeb/BookingPetsWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BookingpetzREST/BookingpetsREST.iml" filepath="$PROJECT_DIR$/../BookingpetzREST/BookingpetsREST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageManager.iml" filepath="$PROJECT_DIR$/ImageManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../backendapi/backendapi.iml" filepath="$PROJECT_DIR$/../backendapi/backendapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-boot-file-upload-download-rest-api-example/file-demo.iml" filepath="$PROJECT_DIR$/../spring-boot-file-upload-download-rest-api-example/file-demo.iml" />
+    </modules>
+  </component>
+</project>
